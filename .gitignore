@@ -1,0 +1,51 @@
+## Visual Studio / .NET
+bin/
+obj/
+**/bin/
+**/obj/
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+*.dll
+*.exe
+*.pdb
+*.dll.config
+
+# Publish outputs
+publish/
+out/
+
+# Rider/IDE
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs and databases
+*.log
+todo.db
+
+# NuGet
+#.packages/
+packages/
+*.nupkg
+
+# JetBrains Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# npm
+node_modules/
+
+# Misc
+*.vsix
